@@ -353,10 +353,12 @@ article .icon {
   cursor: default;
 }
 
+
 /* PROJECTS SECTION */
 
 #projects {
   position: relative;
+  margin-bottom: 0;
 }
 
 .color-container {
